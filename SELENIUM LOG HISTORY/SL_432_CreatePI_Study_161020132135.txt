@@ -1,0 +1,59 @@
+                     Case Name                   Pass or Fail                         Userid                       Userrole                           Time 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 01:22:16 
+
+                   GIGPAD Help                         Passed                          xz985                          Admin                 10/20 01:22:20 
+
+             GIGPAD page title                         Passed                          xz985                          Admin                 10/20 01:22:21 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 01:22:58 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 01:22:58 
+
+
+ City cannot be numeric values                         Passed                       432HVCx8                   INVESTIGATOR                 10/20 01:23:03 
+
+State cannot be numeric values                         Passed                       432HVCx8                   INVESTIGATOR                 10/20 01:23:06 
+
+Zipcode cannot be alphabetical values                         Passed                       432HVCx8                   INVESTIGATOR                 10/20 01:23:09 
+
+Phone number cannot be alphabetic values                         Passed                       432HVCx8                   INVESTIGATOR                 10/20 01:23:12 
+
+       Duplicate User Creation                         Passed                          xz985                          Admin                 10/20 01:23:15 
+
+
+                 User Creation                         Passed                       432HVCx8                   INVESTIGATOR                 10/20 01:23:16 
+
+
+                    User Login                         Passed                   rsrch_daemon                         Domain                 10/20 01:23:52 
+
+                 Account Setup        Failed: User not found.                          xz985                          Admin                 10/20 01:24:17 
+
+
+                 Account Setup                         Passed                          xz985                          Admin                 10/20 01:24:20 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 01:24:55 
+
+ Start Enrollment verification Passed - 2016/2 is not a valid format                       432HVCx8                   INVESTIGATOR                 10/20 01:25:16 
+
+ Start Enrollment verification Passed - No date is not a valid format                       432HVCx8                   INVESTIGATOR                 10/20 01:25:18 
+
+ Start Enrollment verification Passed - 8.2015 is not a valid format                       432HVCx8                   INVESTIGATOR                 10/20 01:25:20 
+
+     Participants verification Passed - Alphabetic value for number of participants should not be accepted                       432HVCx8                   INVESTIGATOR                 10/20 01:25:21 
+
+     Participants verification Passed - Number of participants must be postive                       432HVCx8                   INVESTIGATOR                 10/20 01:25:23 
+
+              Create New Study                         Passed                          xz985                          Admin                 10/20 01:25:28 
+
+
+                    User Login                         Passed                   rsrch_daemon                         Domain                 10/20 01:26:04 
+
+                 Approve Study Failed: Actual study name and expected study name do not match                   rsrch_daemon                         Domain                 10/20 01:26:27 
+
+                 Approve Study Failed - Study already approved                   rsrch_daemon                         Domain                 10/20 01:26:47 
+
+                    User Login                         Failed                       432HVCx8                   INVESTIGATOR                 10/20 01:26:49 
+
+    Test case was interrupted.                         Failed                          xz985                          Admin                 10/20 01:27:09 
+

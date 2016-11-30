@@ -1,0 +1,41 @@
+
+
+New user Creation:      10/19 03:57:54
+User Login executed successfully.10/19 03:58:29
+
+GIGPAD Help is working as expected.     10/19 03:58:33
+
+User 1: INVESTIGATOR
+Verification Successful - The correct title is displayed on the web page.     10/19 03:58:33
+User Login executed successfully.10/19 03:59:07
+Verification Successful - City cannot be numeric values.
+Verification Successful - State cannot be numeric values.
+Verification Successful - ZipCode cannot be alphabetic values.
+Verification Successful - Phone Number cannot be alphabetic values.
+
+Duplicate investigator Verification Successful.     10/19 03:59:23
+
+investigator is created.
+Username: 432B6     10/19 03:59:25
+User Login executed successfully.10/19 04:00:02
+User Login setup succeeded.     10/19 04:00:16
+
+10/19 04:00:17
+Create New Study: 
+Study Coordinator is 432B6
+User Login executed successfully.10/19 04:00:39
+Start Enrollment Verification Successful -2016/2 is not a valid format.10/19 04:01:08
+10/19 04:01:09
+Start Enrollment Verification Successful -8.2015 is not a valid format.10/19 04:01:11
+
+Participants Verification Successful -Alphabetic value for number of participants should not be accepted.10/19 04:01:12
+
+Participants Verification Successful -Number of participants must be postive.10/19 04:01:14
+Study SLAA161019_0is created.     10/19 04:01:22PI for the study: 432B6 SELENIUMTEST
+User Login executed successfully.10/19 04:02:45
+User Login executed successfully.10/19 04:04:41
+
+Submit a new order:      1019
+User Login executed successfully.10/19 04:05:03
+
+Failed to continue selenium test.     10/19 04:05:25

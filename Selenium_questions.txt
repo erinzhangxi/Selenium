@@ -1,0 +1,4 @@
+To read:
+type in command line
+
+java -jar selenium_432.jar

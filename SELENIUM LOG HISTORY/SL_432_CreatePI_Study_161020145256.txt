@@ -1,0 +1,60 @@
+                     Case Name                   Pass or Fail                         Userid                       Userrole                           Time 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 02:53:35 
+
+                   GIGPAD Help                         Passed                          xz985                          Admin                 10/20 02:53:39 
+
+             GIGPAD page title                         Passed                          xz985                          Admin                 10/20 02:53:40 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 02:54:13 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 02:54:13 
+
+
+ City cannot be numeric values                         Passed                        4327WDL                   INVESTIGATOR                 10/20 02:54:18 
+
+State cannot be numeric values                         Passed                        4327WDL                   INVESTIGATOR                 10/20 02:54:21 
+
+Zipcode cannot be alphabetical values                         Passed                        4327WDL                   INVESTIGATOR                 10/20 02:54:24 
+
+Phone number cannot be alphabetic values                         Passed                        4327WDL                   INVESTIGATOR                 10/20 02:54:27 
+
+       Duplicate User Creation                         Passed                          xz985                          Admin                 10/20 02:54:29 
+
+
+                 User Creation                         Passed                        4327WDL                   INVESTIGATOR                 10/20 02:54:30 
+
+
+                    User Login                         Passed                   rsrch_daemon                         Domain                 10/20 02:55:06 
+
+                 Account Setup        Failed: User not found.                          xz985                          Admin                 10/20 02:55:30 
+
+
+                 Account Setup                         Passed                          xz985                          Admin                 10/20 02:55:33 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 02:56:07 
+
+ Start Enrollment verification Passed - 2016/2 is not a valid format                        4327WDL                   INVESTIGATOR                 10/20 02:56:30 
+
+ Start Enrollment verification Passed - No date is not a valid format                        4327WDL                   INVESTIGATOR                 10/20 02:56:32 
+
+ Start Enrollment verification Passed - 8.2015 is not a valid format                        4327WDL                   INVESTIGATOR                 10/20 02:56:33 
+
+     Participants verification Passed - Alphabetic value for number of participants should not be accepted                        4327WDL                   INVESTIGATOR                 10/20 02:56:35 
+
+     Participants verification Passed - Number of participants must be postive                        4327WDL                   INVESTIGATOR                 10/20 02:56:36 
+
+              Create New Study                         Passed                          xz985                          Admin                 10/20 02:56:41 
+
+
+                    User Login                         Passed                   rsrch_daemon                         Domain                 10/20 02:57:17 
+
+                 Approve Study Failed: Actual study name and expected study name do not match                   rsrch_daemon                         Domain                 10/20 02:57:38 
+
+                 Approve Study Failed - Study already approved                   rsrch_daemon                         Domain                 10/20 02:57:58 
+
+                    User Login                         Passed                          xz985                          Admin                 10/20 02:58:33 
+
+        Select Service Type: 1                           Pass                        4327WDL                   INVESTIGATOR                 10/20 03:00:38 
+
+Date of Draw Verification Successful.Date Shipped Verification Successful.Subject ID Verification Successful.Total Number of Tubes Sent Verification Successful.

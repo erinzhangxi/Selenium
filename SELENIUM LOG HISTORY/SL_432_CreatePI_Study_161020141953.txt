@@ -1,0 +1,4 @@
+                     Case Name                   Pass or Fail                         Userid                       Userrole                           Time 
+
+    Test case was interrupted.                         Failed                          xz985                          Admin                 10/20 02:20:03 
+
